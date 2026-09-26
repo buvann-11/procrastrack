@@ -45,6 +45,7 @@ npm run dev        # http://localhost:5173/procrastrack/
 | `npm run build` | Production build into `dist/` |
 | `npm run preview` | Serve the production build locally |
 | `npm run lint` | Run ESLint |
+| `npm test` | Run unit tests (Node test runner) |
 
 ## Project structure
 
