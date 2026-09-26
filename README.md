@@ -4,8 +4,6 @@
 
 🔗 **Live demo:** https://buvann-11.github.io/procrastrack/
 
-![ProcrasTrack screens](docs/screenshot.png)
-
 Procrastination is rarely about the task – it's about starting. ProcrasTrack asks you to commit to only a few minutes, lets you write down how you feel while you work, and celebrates you when you finish.
 
 ## Features
